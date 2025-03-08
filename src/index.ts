@@ -1,4 +1,4 @@
-let mensagem: string = "Olá, TypeScript!";
+/*let mensagem: string = "Olá, TypeScript!";
 console.log(mensagem);
 
 let valores: number[] = [10, 20, 30];
@@ -17,4 +17,9 @@ class Carro {
     }
 }
 const carro1 = new Carro("Toyota", "Corolla", 2022);
-console.log(carro1.detalhes());
+console.log(carro1.detalhes());*/
+
+import "./interface/Carro";
+import "./interface/Multiplicacao";
+import "./interface/Generics";
+import "./interface/Tipos";
