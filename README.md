@@ -1,0 +1,32 @@
+<h2>📌 Informações sobre as Branches</h2>
+
+<p>Professor, foram criadas duas branches para organização dos exercícios:</p>
+
+<ul>
+  <li><strong>exercicios-07-03-2025</strong> - Contém os exercícios realizados no dia <strong>07/03/2025</strong>.</li>
+  <li><strong>exercicios-25-02-2025</strong> - Contém os exercícios realizados no dia <strong>25/02/2025</strong>.</li>
+</ul>
+
+<p>Para acessar as branches, utilize os seguintes comandos:</p>
+
+<pre>
+git checkout exercicios-07-03-2025
+</pre>
+
+<pre>
+git checkout exercicios-25-02-2025
+</pre>
+
+<p>Se precisar voltar para a branch principal (<code>master</code> ou <code>main</code>), use:</p>
+
+<pre>
+git checkout master
+</pre>
+
+<p>Ou, se a branch principal for <code>main</code>:</p>
+
+<pre>
+git checkout main
+</pre>
+
+<p>Obrigado! 🚀</p>
