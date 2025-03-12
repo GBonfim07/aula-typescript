@@ -3,8 +3,8 @@
 <p>Professor, foram criadas duas branches para organização dos exercícios:</p>
 
 <ul>
-  <li><strong>exercicios-07-03-2025</strong> - Contém os exercícios realizados no dia <strong>07/03/2025</strong>.</li>
-  <li><strong>exercicios-25-02-2025</strong> - Contém os exercícios realizados no dia <strong>25/02/2025</strong>.</li>
+  <li><strong>mestre</strong> - Contém os exercícios realizados no dia <strong>07/03/2025</strong>.</li>
+  <li><strong>principal</strong> - Contém os exercícios realizados no dia <strong>25/02/2025</strong>.</li>
 </ul>
 
 <p>Para acessar as branches, utilize os seguintes comandos:</p>
