@@ -6,7 +6,7 @@
   <li><strong>mestre</strong> - Contém os exercícios realizados no dia <strong>07/03/2025</strong>.</li>
   <li><strong>principal</strong> - Contém os exercícios realizados no dia <strong>25/02/2025</strong>.</li>
 </ul>
-<p> foi feito um commit na branch  principal dos exercicios da aula <strong>07/03/2025</strong>, porém houve falha em alguns todos foram corrigidos em um novo commit na branch mestre</p>
+<p> foi feito um commit na branch  principal dos exercicios da aula <strong>07/03/2025</strong>, porém houve falha em alguns, todos foram corrigidos em um novo commit na branch mestre</p>
 
 <p>Para acessar as branches, utilize os seguintes comandos:</p>
 
